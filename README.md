@@ -5,8 +5,8 @@
 
 ### Links
 
-- Live Site: 
-- Code: 
+- Live Site: https://ecomerceamazonapp.netlify.app/
+- Code: Shubhangikapure/github.io
 
 ### Built with
 - React js
